@@ -8,4 +8,4 @@ The idea is to make a website to showcase project made by students of our school
 1. [Anshul Badhani](https://github.com/anshulbadhani)
 2. [Kshitij Kumar](https://github.com/Kshitij230)
 3. [Harshit Yadav](https://github.com/Harshit-y)
-4. Shrishti Rai
+4. [Shrishti Rai](https://github.com/crazytoffee)
